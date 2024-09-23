@@ -2,9 +2,9 @@
 
 Bem-vindo ao **Spoti Music Clone**! Este projeto é uma recriação da interface do Spotify, permitindo que os usuários explorem artistas e álbuns populares. O site é responsivo e utiliza HTML, CSS e JavaScript para proporcionar uma experiência interativa.
 
-## Demonstração
+## Imagem do Projeto
 
-Você pode visualizar o projeto ao vivo [aqui](https://spoti-music-clone-portfolio.netlify.app/).
+![](https://i.imgur.com/JiJf9YM.png)
 
 ## Funcionalidades
 
